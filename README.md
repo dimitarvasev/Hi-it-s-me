@@ -1,2 +1,2 @@
-# Hi-it-s-me
-Hi, It's me!
+Hi, it's me!
+I am a coder in development.
