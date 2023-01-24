@@ -1,2 +1,3 @@
-Hi, it's me!
-I am a coder in development.
+### Hi, it's me! :wave:	
+
+I am a coder in progress.
